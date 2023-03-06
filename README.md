@@ -1,9 +1,7 @@
 # Hi there 👋 , I'm Cantika!
 
-### Hi there 👋
-
 <!--
-**sekarmk03/sekarmk03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cantikaputria/cantikaputria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="left">
 <a href="https://github.com/bintangfajarr">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bintangfajarr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cantikaputria&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bintangfajarr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
